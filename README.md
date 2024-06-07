@@ -1,0 +1,1 @@
+This project focuses on classifying emotions in recorded videos and captured images using Deep Learning.
